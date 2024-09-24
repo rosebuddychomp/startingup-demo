@@ -1,4 +1,4 @@
 # startingup-demo
 first git repository
 <br>
-author- Rishabh Shetye
+author- Rishabh G. Shetye
